@@ -15,7 +15,8 @@
     "error-factory": "^0.1.6",
     "moment-timezone": "^0.5.27",
     "no-kafka": "^3.4.3",
-    "request-promise-native": "^1.0.8"
+    "request-promise-native": "^1.0.8",
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "eslint": "^6.2.2",
